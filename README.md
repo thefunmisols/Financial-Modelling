@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project focused on building a **dynamic financial model in Excel** to evaluate the financial viability of acquiring and potentially selling the **West Ridge North property** for STREIT, A Real Estate Investment Trust. I used historical financial data from the property’s **income statement** to forecast future financial performance and assess investment profitability.
+The project focused on building a **dynamic financial model in Excel** to evaluate the financial viability of acquiring and potentially selling the **West Ridge North property** for STREIT, A Real Estate Investment Trust. I used historical financial data from the property’s **income statement** to forecast future financial performance and assess investment profitability.
 
 The model integrated **financial forecasting, capital budgeting techniques, and time value of money principles** to provide a structured framework for real estate investment decision-making.
 
